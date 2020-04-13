@@ -1,5 +1,4 @@
 #######################################################################################
-#ONLY PYTHON LIBRARIES ARE NEEDED FOR SERVER
 import select
 import socket
 from threading import Thread
